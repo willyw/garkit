@@ -1,3 +1,5 @@
-body { width:100%;  font-size:14px; font-family:  Trebuchet MS,Trebuchet,Arial,Helvetica,sans-serif; color:rgb(10,10,10);min-width: 960px;}
-#main { width:960px; margin:0 auto; }
+body {background-color: #E7E7DE; width:100%;  font-size:14px; font-family:  Trebuchet MS,Trebuchet,Arial,Helvetica,sans-serif; color:#3E3E3E;min-width: 960px;}
+#main { width:960px; background-color: #FFFFFF; margin:0 auto; -moz-border-radius-topleft:20px; -moz-border-radius-topright:20px; border-top-left-radius:20px; border-top-right-radius:20px;  }
 #footer { text-align:center;}
+
+
